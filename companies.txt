@@ -1,0 +1,15 @@
+http://www.gap.com/: 
+http://www.hm.com/: 
+http://www.6pm.com/: Optimizely,Ruby on Rails,Twitter Bootstrap,jQuery,Ruby
+http://www.jcrew.com/: null
+http://www.mango.com/: 
+http://www.ralphlauren.com/: Reveal.js,SiteCatalyst,Twitter Bootstrap,ZURB Foundation,jQuery,jQuery UI
+http://www.shopbop.com/: Lightbox,Prototype,SWFObject,jQuery,jQuery UI
+http://www.modcloth.com/: Modernizr,jQuery
+http://www.finishline.com/: Google Tag Manager,Lightbox,SiteCatalyst
+http://www.dsw.com/: 
+http://www.hottopic.com/: 
+http://www.abercrombie.com/: Google Font API,Optimizely
+http://www.oldnavy.com/: Font Awesome,Google Font API,Optimizely,Twitter Bootstrap,Underscore.js,jQuery,jQuery UI
+http://www.shoebuy.com/: 
+http://www.freepeople.com/: 
